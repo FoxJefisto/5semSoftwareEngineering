@@ -1,0 +1,13 @@
+D:\VisualProjects\C#\5sem\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.exe
+D:\VisualProjects\C#\5sem\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.deps.json
+D:\VisualProjects\C#\5sem\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.runtimeconfig.json
+D:\VisualProjects\C#\5sem\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.runtimeconfig.dev.json
+D:\VisualProjects\C#\5sem\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.dll
+D:\VisualProjects\C#\5sem\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.pdb
+D:\VisualProjects\C#\5sem\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.csprojAssemblyReference.cache
+D:\VisualProjects\C#\5sem\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.AssemblyInfoInputs.cache
+D:\VisualProjects\C#\5sem\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.AssemblyInfo.cs
+D:\VisualProjects\C#\5sem\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.csproj.CoreCompileInputs.cache
+D:\VisualProjects\C#\5sem\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.dll
+D:\VisualProjects\C#\5sem\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.pdb
+D:\VisualProjects\C#\5sem\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.genruntimeconfig.cache
