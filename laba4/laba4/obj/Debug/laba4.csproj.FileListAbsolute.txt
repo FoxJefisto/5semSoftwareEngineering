@@ -1,0 +1,14 @@
+D:\VisualProjects\C#\5sem\laba4\laba4\bin\Debug\laba4.exe.config
+D:\VisualProjects\C#\5sem\laba4\laba4\bin\Debug\laba4.exe
+D:\VisualProjects\C#\5sem\laba4\laba4\bin\Debug\laba4.pdb
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.csprojAssemblyReference.cache
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.Form1.resources
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.Properties.Resources.resources
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.csproj.GenerateResource.cache
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.exe
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.pdb
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.AboutBox1.resources
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.FormDialog.resources
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.FormInput.resources
+D:\VisualProjects\C#\5sem\laba4\laba4\obj\Debug\laba4.FormSolve.resources
