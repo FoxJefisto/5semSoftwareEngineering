@@ -1,7 +1,7 @@
 ﻿
 namespace laba3
 {
-    partial class Form1
+    partial class Window3
     {
         /// <summary>
         ///  Required designer variable.
@@ -153,7 +153,7 @@ namespace laba3
             this.lbCondition.TabIndex = 10;
             this.lbCondition.Text = "Условие";
             // 
-            // Form1
+            // Window3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -169,8 +169,8 @@ namespace laba3
             this.Controls.Add(this.lbN);
             this.Controls.Add(this.txtM);
             this.Controls.Add(this.txtN);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Window3";
+            this.Text = "Window3";
             ((System.ComponentModel.ISupportInitialize)(this.Grid1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Grid2)).EndInit();
             this.ResumeLayout(false);

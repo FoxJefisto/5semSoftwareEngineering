@@ -1,5 +1,4 @@
 D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csprojAssemblyReference.cache
-D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.Form1.resources
 D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csproj.GenerateResource.cache
 D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.AssemblyInfoInputs.cache
 D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.AssemblyInfo.cs
@@ -13,3 +12,4 @@ D:\VisualProjects\C#\5sem\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.pdb
 D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.dll
 D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.pdb
 D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.genruntimeconfig.cache
+D:\VisualProjects\C#\5sem\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.Window3.resources

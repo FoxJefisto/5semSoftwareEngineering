@@ -1,0 +1,12 @@
+D:\VisualProjects\C#\5sem\laba7\laba7\bin\Debug\laba7.exe.config
+D:\VisualProjects\C#\5sem\laba7\laba7\bin\Debug\laba7.exe
+D:\VisualProjects\C#\5sem\laba7\laba7\bin\Debug\laba7.pdb
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.csprojAssemblyReference.cache
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.CreateForm.resources
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.Properties.Resources.resources
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.csproj.GenerateResource.cache
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.csproj.CoreCompileInputs.cache
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.exe
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.pdb
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.EditForm.resources
+D:\VisualProjects\C#\5sem\laba7\laba7\obj\Debug\laba7.ResultForm.resources

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace laba3
 {
-    public partial class Form1 : Form
+    public partial class Window3 : Form
     {
-        public Form1()
+        public Window3()
         {
             InitializeComponent();
             lbCondition.Text =
@@ -81,7 +81,7 @@ namespace laba3
             }
         }
 
-        public static double[,] ConversionGM(Form1 form1)
+        public static double[,] ConversionGM(Window3 form1)
         {
             int n = Convert.ToInt32(form1.txtN.Text),
                 m = Convert.ToInt32(form1.txtM.Text);
@@ -94,7 +94,7 @@ namespace laba3
             return x;
         }
 
-        public static void ConversionMG(Form1 form1, double[,] x)
+        public static void ConversionMG(Window3 form1, double[,] x)
         {
             form1.Grid2.RowCount = x.GetLength(0);
             form1.Grid2.ColumnCount = x.GetLength(1);

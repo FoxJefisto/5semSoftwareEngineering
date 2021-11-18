@@ -1,0 +1,15 @@
+D:\VisualProjects\C#\5sem\laba6\laba6\bin\Debug\laba6.exe.config
+D:\VisualProjects\C#\5sem\laba6\laba6\bin\Debug\laba6.exe
+D:\VisualProjects\C#\5sem\laba6\laba6\bin\Debug\laba6.pdb
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6.csprojAssemblyReference.cache
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\MainWindow.g.cs
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\App.g.cs
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6_MarkupCompile.cache
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6_MarkupCompile.lref
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\MainWindow.baml
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6.g.resources
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6.Properties.Resources.resources
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6.csproj.GenerateResource.cache
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6.csproj.CoreCompileInputs.cache
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6.exe
+D:\VisualProjects\C#\5sem\laba6\laba6\obj\Debug\laba6.pdb
